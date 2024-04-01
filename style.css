@@ -46,7 +46,7 @@ nav ul li a{
     text-transform: capitalize;
 }
 nav ul li a:hover{
-    color: rgb(104, 104, 194);
+    color: rgb(35, 35, 133);
     font-size: 1.04rem;
     transition: .4s;
 }
