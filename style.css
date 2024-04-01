@@ -24,7 +24,11 @@ nav{
 .logo{
     color: white;
     font-size: 30px;
+    font-weight: 500;
     cursor: pointer;
+}
+.logo span{
+    color: chartreuse;
 }
 nav ul{
     display: flex;
